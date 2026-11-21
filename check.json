@@ -1,0 +1,15 @@
+{
+  "command": [
+    "pwsh",
+    "-NoProfile",
+    "-File",
+    "app.ps1"
+  ],
+  "expected": {
+    "overlap": [
+      840,
+      960
+    ],
+    "minutes": 120
+  }
+}
